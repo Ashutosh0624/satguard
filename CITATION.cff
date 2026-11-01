@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SatGuard: Adversarial prompt injection against LLM-based satellite command agents, and a Z3 SMT runtime-verification defense"
+type: software
+authors:
+  - family-names: "Tiwari"
+    given-names: "Ashutosh Kumar"
+repository-code: "https://github.com/Ashutosh0624/satguard"
+license: Apache-2.0
+version: 0.0.1
+date-released: "2026-11-01"
+keywords:
+  - "LLM security"
+  - "prompt injection"
+  - "SMT"
+  - "Z3"
+  - "satellite communications"
+  - "runtime assurance"
